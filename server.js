@@ -1,4 +1,7 @@
 // database is let instead of const to allow us to modify it in test.js
+
+/* CS notes Oct 24: I know it's a mess below. I failed 17 tests, but no code academy advisor had experience with this project. I need help on the comment functions, please assist. */
+
 let database = {
   users: {},
   articles: {},
